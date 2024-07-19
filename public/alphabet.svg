@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.02619,0,0,1,-15.7996,-90.7386)">
+        <path d="M788.155,359.333C788.155,265.305 713.764,188.966 622.135,188.966L214.957,188.966C123.328,188.966 48.937,265.305 48.937,359.333L48.937,700.067C48.937,794.096 123.328,870.435 214.957,870.435L622.135,870.435C713.764,870.435 788.155,794.096 788.155,700.067L788.155,359.333Z" style="fill:rgb(233,209,255);"/>
+    </g>
+    <g id="🔍-System-Icons">
+        <g transform="matrix(1.21815,0,0,1.1882,-481.777,16.8221)">
+            <g id="ic_fluent_translate_24_regular">
+                <g transform="matrix(456.703,0,0,456.703,736.758,549.827)">
+                </g>
+                <text x="446.859px" y="549.827px" style="font-family:'A0AddisAbebaUnicode', 'A0 Addis Abeba Unicode';font-size:456.703px;fill:rgb(39,39,39);">ሀ</text>
+            </g>
+        </g>
+        <g transform="matrix(0.920667,0,0,0.931097,-9.12146,-95.9924)">
+            <g transform="matrix(0.997639,0,0,1,0.926031,0)">
+                <g transform="matrix(602.997,0,0,602.997,914.808,834.098)">
+                </g>
+                <text x="392.192px" y="834.098px" style="font-family:'A0AddisAbebaUnicode', 'A0 Addis Abeba Unicode';font-size:602.997px;fill:rgb(39,39,39);">ሁ</text>
+            </g>
+        </g>
+    </g>
+</svg>
